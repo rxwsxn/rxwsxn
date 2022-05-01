@@ -1,16 +1,14 @@
-### Hi there 👋
+Hi 👋 My name is Raushan Kumar
+==============================
 
-<!--
-**rxwsxn/rxwsxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer (AI)
+----------------------
 
-Here are some ideas to get you started:
+i am passionate about creating products which helps human maker their life simpler.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   🌍  I'm based in Bangalore
+*   🖥️  See my portfolio at [raushan.me](http://raushan.me)
+*   ✉️  You can contact me at [hello@raushan.me](mailto:hello@raushan.me)
+*   🧠  I'm learning new frameworks for deep learning and neuroscience
+*   🤝  I'm open to collaborating on projects related to Deep Learning, NLP and Image Processing
+*   ⚡  i like coffee and minimalism way of life
