@@ -8,6 +8,6 @@
 
 🌱 Actively seeking opportunities in the AI and ML domain for collaborative projects.
 
-💻 Check out my portfolio at [raushan.me](http://raushan.me) to see my work.
+💻 Check out my portfolio [here](http://rxwsxn.com) to see my latest work.
 
-✉️ Feel free to reach out to me at [hello@raushan.me](mailto:hello@raushan.me) to connect and discuss potential collaborations.
+✉️ Feel free to reach out to me at [raushan@rxwsxn.com](mailto:raushan@rxwsxn.com) to connect and discuss potential collaborations.
